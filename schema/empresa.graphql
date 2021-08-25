@@ -1,0 +1,39 @@
+# import * from "./usuario.graphql"
+# import * from "./comum.graphql"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+
+
+type Companies {
+    _id: String,
+    image: Docs,
+    name: String,
+    email: String,
+    documents: Docs,
+    colors: [String],
+    address: Address,
+    offices: [Office],
+}
+
+input CompaniesInput {
+    _id: String,
+    name: String,
+    email: String,
+    image: DocsInput,
+    colors: [String],
+    documents: DocsInput,
+    address: AddressInput,
+    offices: [OfficeInput],
+}
+
+type Office {
+    _id: String,
+    name: String,
+    permissions: [Int],
+    employees: [Users],
+}
+
+input OfficeInput {
+    _id: String,
+    name: String,
+    permissions: [Int],
+    employees: [UsersInput],
+}

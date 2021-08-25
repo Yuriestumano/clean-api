@@ -1,5 +1,46 @@
-type Usuario {
-  _id: ID
-  nome: String
-  cpf:String
+# import * from "./comum.graphql"
+# import * from "./empresa.graphql"
+
+type Users {
+  rg: Docs,
+  photo: Docs,
+  _id: String,
+  status: Int,
+  cpf: String,
+  iat: String,
+  exp: String,
+  job: String,
+  name: String,
+  token: String,
+  _type: String,
+  birth: String,
+  email: String,
+  gender: String,
+  phones: [String],
+  password: String,
+  address: Address,
+  naturalness: String,
+  companies: [Companies],
+  maritalStatus: String,
+}
+
+input UsersInput {
+  status: Int,
+  cpf: String,
+  job: String,
+  _id: String,
+  name: String,
+  _type: String,
+  token: String,
+  rg: DocsInput,
+  birth: String,
+  email: String,
+  gender: String,
+  photo: DocsInput,
+  password: String,
+  phones: [String],
+  naturalness: String,
+  maritalStatus: String,
+  address: AddressInput,
+  companies: [CompaniesInput],
 }
