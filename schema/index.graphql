@@ -1,8 +1,10 @@
 #import Mutation from './mutation.graphql'
 #import * from './usuario.graphql'
-
+#import * from './produtos.graphql'
 
 type Query {
-  login:Boolean,
+  atualizaSessao: Users
+  getProductsFeatureds: ProductsPag
+  login(email: String, password: String): Users
   testeEmail:Boolean
 }

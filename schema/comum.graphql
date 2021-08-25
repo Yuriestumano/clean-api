@@ -1,0 +1,53 @@
+type Address {
+    lat: Float,
+    long: Float,
+    obs: String,
+    city: String,
+    receipt: Docs,
+    _type: String,
+    state: String,
+    number: String,
+    street: String,
+    zipcode: String,
+    reference: String,
+    complement: String,
+    neighborhood: String,
+}
+
+input AddressInput {
+    lat: Float,
+    long: Float,
+    obs: String,
+    city: String,
+    state: String,
+    _type: String,
+    number: String,
+    street: String,
+    zipcode: String,
+    reference: String,
+    receipt: DocsInput,
+    complement: String,
+    neighborhood: String,
+}
+
+type Docs {
+    number: String,
+    url: String,
+    ref: String,
+}
+
+input DocsInput {
+    number: String,
+    url: String,
+    ref: String,
+}
+
+type NameValue {
+    name: String,
+    value: String,
+}
+
+input NameValueInput {
+    name: String,
+    value: String,
+}
