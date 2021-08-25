@@ -1,0 +1,51 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel lib -d dist",
+    "babel-node": "babel-node lib/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "TZ=utc nodemon --exec 'npm run babel-node' --ext js,graphql",
+    "start": "DEV=0 NODE_ENV=production node dist/index.js",
+    "online": "DEV=0 TZ=utc nodemon --exec 'npm run babel-node' --ext js,graphql",
+    "endlisten": " kill -9 5094"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/runtime": "^7.11.2",
+    "apollo-server": "^2.16.1",
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "buffer": "^6.0.2",
+    "cli-progress": "^3.8.2",
+    "cors": "^2.8.5",
+    "dayjs": "^1.8.34",
+    "dotenv": "^8.2.0",
+    "express-graphql": "^0.11.0",
+    "graphql": "^15.3.0",
+    "graphql-import": "^1.0.2",
+    "graphql-tools": "^6.0.18",
+    "jwt-simple": "^0.5.6",
+    "moment": "^2.27.0",
+    "mongodb-shell": "^1.0.1",
+    "mongoose": "^5.10.0",
+    "mongoose-string-query": "^0.2.7",
+    "mongoose-timestamp": "^0.6.0",
+    "node-cron": "^3.0.0",
+    "node-dbf": "^0.4.0",
+    "nodemon": "^2.0.12",
+    "qrcode": "^1.4.4",
+    "uniqid": "^5.2.0",
+    "uuidv4": "^6.2.3"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.7.5",
+    "@babel/core": "^7.7.5",
+    "@babel/node": "^7.7.4",
+    "@babel/plugin-transform-runtime": "^7.7.6",
+    "@babel/preset-env": "^7.7.6"
+  }
+}

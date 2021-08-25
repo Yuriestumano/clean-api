@@ -1,0 +1,1101 @@
+[
+  {
+    "_id": {
+      "campeonato": "60cb08f51e1b96245c975df3"
+    },
+    "campeonato": {
+      "_id": "60cb08f51e1b96245c975df3",
+      "descricao": "KAKKONEN, GROUP A - FINLÂNDIA"
+    },
+    "eventos_campeonato": [
+      {
+        "_id": "6112e50dab38efd8d4994179",
+        "campeonato": {
+          "_id": "60cb08f51e1b96245c975df3",
+          "descricao": "KAKKONEN, GROUP A - FINLÂNDIA"
+        },
+        "casa": "KIFFEN",
+        "fora": "PEKA",
+        "data_hora": "2021-08-11T16:00:00.000Z",
+        "cotacaoContagem": 14,
+        "cotacoes_main": [
+          {
+            "_id": "6112e50dd3e1db342ed7df2c",
+            "__v": 0,
+            "evento_id": "6112e50dab38efd8d4994179",
+            "id": 2,
+            "last_sync": "2021-08-10T20:43:57.610Z",
+            "sigla": "Principais;1x2;Empate",
+            "valor": 3.75,
+            "valorb": 3.75
+          },
+          {
+            "_id": "6112e50dd3e1db342ed7df2d",
+            "__v": 0,
+            "evento_id": "6112e50dab38efd8d4994179",
+            "id": 1,
+            "last_sync": "2021-08-10T20:43:57.610Z",
+            "sigla": "Principais;1x2;casa",
+            "valor": 2.4,
+            "valorb": 2.4
+          },
+          {
+            "_id": "6112e50dd3e1db342ed7df2b",
+            "__v": 0,
+            "evento_id": "6112e50dab38efd8d4994179",
+            "id": 3,
+            "last_sync": "2021-08-10T20:43:57.610Z",
+            "sigla": "Principais;1x2;fora",
+            "valor": 2.3,
+            "valorb": 2.3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": {
+      "campeonato": "610e840a0f7402e342506ff4"
+    },
+    "campeonato": {
+      "_id": "610e840a0f7402e342506ff4",
+      "descricao": "LIGA NACIONAL, APERTURA - HONDURAS"
+    },
+    "eventos_campeonato": [
+      {
+        "_id": "6112e538ab38efd8d49959e7",
+        "campeonato": {
+          "_id": "610e840a0f7402e342506ff4",
+          "descricao": "LIGA NACIONAL, APERTURA - HONDURAS"
+        },
+        "casa": "CD MARATHON",
+        "fora": "UPNFM",
+        "data_hora": "2021-08-11T21:00:00.000Z",
+        "cotacaoContagem": 14,
+        "cotacoes_main": [
+          {
+            "_id": "6112e538d3e1db342ed7e00d",
+            "__v": 0,
+            "evento_id": "6112e538ab38efd8d49959e7",
+            "id": 1,
+            "last_sync": "2021-08-10T20:44:40.140Z",
+            "sigla": "Principais;1x2;casa",
+            "valor": 1.85,
+            "valorb": 1.85
+          },
+          {
+            "_id": "6112e538d3e1db342ed7e00c",
+            "__v": 0,
+            "evento_id": "6112e538ab38efd8d49959e7",
+            "id": 2,
+            "last_sync": "2021-08-10T20:44:40.140Z",
+            "sigla": "Principais;1x2;Empate",
+            "valor": 3.4,
+            "valorb": 3.4
+          },
+          {
+            "_id": "6112e538d3e1db342ed7e00b",
+            "__v": 0,
+            "evento_id": "6112e538ab38efd8d49959e7",
+            "id": 3,
+            "last_sync": "2021-08-10T20:44:40.140Z",
+            "sigla": "Principais;1x2;fora",
+            "valor": 3.6,
+            "valorb": 3.6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": {
+      "campeonato": "610be2bf0f7402e3424ea2fb"
+    },
+    "campeonato": {
+      "_id": "610be2bf0f7402e3424ea2fb",
+      "descricao": "1ª LIGA - LITUÂNIA"
+    },
+    "eventos_campeonato": [
+      {
+        "_id": "6112e4b4ab38efd8d4990652",
+        "campeonato": {
+          "_id": "610be2bf0f7402e3424ea2fb",
+          "descricao": "1ª LIGA - LITUÂNIA"
+        },
+        "casa": "FK SUDUVA MARIJAMPOLE",
+        "fora": "FK KAUNO ZALGIRIS",
+        "data_hora": "2021-08-11T16:00:00.000Z",
+        "cotacaoContagem": 10,
+        "cotacoes_main": [
+          {
+            "_id": "6112e4b3d3e1db342ed7db7b",
+            "__v": 0,
+            "evento_id": "6112e4b4ab38efd8d4990652",
+            "id": 2,
+            "last_sync": "2021-08-10T20:42:28.309Z",
+            "sigla": "Principais;1x2;Empate",
+            "valor": 3.5,
+            "valorb": 3.5
+          },
+          {
+            "_id": "6112e4b3d3e1db342ed7db7a",
+            "__v": 0,
+            "evento_id": "6112e4b4ab38efd8d4990652",
+            "id": 3,
+            "last_sync": "2021-08-10T20:42:28.309Z",
+            "sigla": "Principais;1x2;fora",
+            "valor": 4.33,
+            "valorb": 4.33
+          },
+          {
+            "_id": "6112e4b3d3e1db342ed7db7c",
+            "__v": 0,
+            "evento_id": "6112e4b4ab38efd8d4990652",
+            "id": 1,
+            "last_sync": "2021-08-10T20:42:28.309Z",
+            "sigla": "Principais;1x2;casa",
+            "valor": 1.65,
+            "valorb": 1.65
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": {
+      "campeonato": "5e27183774a76eb1d22cba32"
+    },
+    "campeonato": {
+      "_id": "5e27183774a76eb1d22cba32",
+      "descricao": "DIVISION PROFESIONAL - BOLÍVIA"
+    },
+    "eventos_campeonato": [
+      {
+        "_id": "6112e506ab38efd8d4993a67",
+        "campeonato": {
+          "_id": "5e27183774a76eb1d22cba32",
+          "descricao": "DIVISION PROFESIONAL - BOLÍVIA"
+        },
+        "casa": "CA NACIONAL POTOSI",
+        "fora": "CLUB BOLIVAR",
+        "data_hora": "2021-08-11T23:00:00.000Z",
+        "cotacaoContagem": 95,
+        "cotacoes_main": [
+          {
+            "_id": "6112e505d3e1db342ed7df04",
+            "__v": 0,
+            "evento_id": "6112e506ab38efd8d4993a67",
+            "id": 1,
+            "last_sync": "2021-08-10T20:43:49.753Z",
+            "sigla": "Principais;1x2;casa",
+            "valor": 2.75,
+            "valorb": 2.75
+          },
+          {
+            "_id": "6112e505d3e1db342ed7df02",
+            "__v": 0,
+            "evento_id": "6112e506ab38efd8d4993a67",
+            "id": 3,
+            "last_sync": "2021-08-10T20:43:49.753Z",
+            "sigla": "Principais;1x2;fora",
+            "valor": 2.25,
+            "valorb": 2.25
+          },
+          {
+            "_id": "6112e505d3e1db342ed7df03",
+            "__v": 0,
+            "evento_id": "6112e506ab38efd8d4993a67",
+            "id": 2,
+            "last_sync": "2021-08-10T20:43:49.753Z",
+            "sigla": "Principais;1x2;Empate",
+            "valor": 3.25,
+            "valorb": 3.25
+          }
+        ]
+      },
+      {
+        "_id": "6112e504ab38efd8d49936ce",
+        "campeonato": {
+          "_id": "5e27183774a76eb1d22cba32",
+          "descricao": "DIVISION PROFESIONAL - BOLÍVIA"
+        },
+        "casa": "ALWAYS READY",
+        "fora": "THE STRONGEST",
+        "data_hora": "2021-08-11T19:00:00.000Z",
+        "cotacaoContagem": 92,
+        "cotacoes_main": [
+          {
+            "_id": "6112e503d3e1db342ed7dea4",
+            "__v": 0,
+            "evento_id": "6112e504ab38efd8d49936ce",
+            "id": 1,
+            "last_sync": "2021-08-10T20:43:48.121Z",
+            "sigla": "Principais;1x2;casa",
+            "valor": 2.1,
+            "valorb": 2.1
+          },
+          {
+            "_id": "6112e503d3e1db342ed7dea3",
+            "__v": 0,
+            "evento_id": "6112e504ab38efd8d49936ce",
+            "id": 2,
+            "last_sync": "2021-08-10T20:43:48.121Z",
+            "sigla": "Principais;1x2;Empate",
+            "valor": 3.7,
+            "valorb": 3.7
+          },
+          {
+            "_id": "6112e503d3e1db342ed7dea2",
+            "__v": 0,
+            "evento_id": "6112e504ab38efd8d49936ce",
+            "id": 3,
+            "last_sync": "2021-08-10T20:43:48.121Z",
+            "sigla": "Principais;1x2;fora",
+            "valor": 2.7,
+            "valorb": 2.7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": {
+      "campeonato": "60cb09d21e1b96245c97e978"
+    },
+    "campeonato": {
+      "_id": "60cb09d21e1b96245c97e978",
+      "descricao": "KAKKONEN, GROUP B - FINLÂNDIA"
+    },
+    "eventos_campeonato": [
+      {
+        "_id": "6112e511ab38efd8d49943c9",
+        "campeonato": {
+          "_id": "60cb09d21e1b96245c97e978",
+          "descricao": "KAKKONEN, GROUP B - FINLÂNDIA"
+        },
+        "casa": "KAAPO KAARINAN POJAT",
+        "fora": "FC JAZZ",
+        "data_hora": "2021-08-11T15:30:00.000Z",
+        "cotacaoContagem": 14,
+        "cotacoes_main": [
+          {
+            "_id": "6112e510d3e1db342ed7df3e",
+            "__v": 0,
+            "evento_id": "6112e511ab38efd8d49943c9",
+            "id": 1,
+            "last_sync": "2021-08-10T20:44:00.954Z",
+            "sigla": "Principais;1x2;casa",
+            "valor": 1.73,
+            "valorb": 1.73
+          },
+          {
+            "_id": "6112e510d3e1db342ed7df3d",
+            "__v": 0,
+            "evento_id": "6112e511ab38efd8d49943c9",
+            "id": 2,
+            "last_sync": "2021-08-10T20:44:00.954Z",
+            "sigla": "Principais;1x2;Empate",
+            "valor": 4,
+            "valorb": 4
+          },
+          {
+            "_id": "6112e510d3e1db342ed7df3c",
+            "__v": 0,
+            "evento_id": "6112e511ab38efd8d49943c9",
+            "id": 3,
+            "last_sync": "2021-08-10T20:44:00.954Z",
+            "sigla": "Principais;1x2;fora",
+            "valor": 3.5,
+            "valorb": 3.5
+          }
+        ]
+      },
+      {
+        "_id": "6112e513ab38efd8d49945ed",
+        "campeonato": {
+          "_id": "60cb09d21e1b96245c97e978",
+          "descricao": "KAKKONEN, GROUP B - FINLÂNDIA"
+        },
+        "casa": "ESPOON PALLOSEURA",
+        "fora": "ILVES 2",
+        "data_hora": "2021-08-11T15:30:00.000Z",
+        "cotacaoContagem": 14,
+        "cotacoes_main": [
+          {
+            "_id": "6112e512d3e1db342ed7df4b",
+            "__v": 0,
+            "evento_id": "6112e513ab38efd8d49945ed",
+            "id": 3,
+            "last_sync": "2021-08-10T20:44:03.069Z",
+            "sigla": "Principais;1x2;fora",
+            "valor": 2.05,
+            "valorb": 2.05
+          },
+          {
+            "_id": "6112e512d3e1db342ed7df4d",
+            "__v": 0,
+            "evento_id": "6112e513ab38efd8d49945ed",
+            "id": 1,
+            "last_sync": "2021-08-10T20:44:03.069Z",
+            "sigla": "Principais;1x2;casa",
+            "valor": 2.75,
+            "valorb": 2.75
+          },
+          {
+            "_id": "6112e512d3e1db342ed7df4c",
+            "__v": 0,
+            "evento_id": "6112e513ab38efd8d49945ed",
+            "id": 2,
+            "last_sync": "2021-08-10T20:44:03.069Z",
+            "sigla": "Principais;1x2;Empate",
+            "valor": 3.9,
+            "valorb": 3.9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": {
+      "campeonato": "5d3b19cbd2df6d6d82a395e9"
+    },
+    "campeonato": {
+      "_id": "5d3b19cbd2df6d6d82a395e9",
+      "descricao": "PRIMERA DIVISION - GUATEMALA"
+    },
+    "eventos_campeonato": [
+      {
+        "_id": "6112e55cab38efd8d4997133",
+        "campeonato": {
+          "_id": "5d3b19cbd2df6d6d82a395e9",
+          "descricao": "PRIMERA DIVISION - GUATEMALA"
+        },
+        "casa": "CHIMALTENANGO FC",
+        "fora": "DEPORTIVO SANARATE FC",
+        "data_hora": "2021-08-11T21:00:00.000Z",
+        "cotacaoContagem": 8,
+        "cotacoes_main": [
+          {
+            "_id": "6112e55cd3e1db342ed7e087",
+            "__v": 0,
+            "evento_id": "6112e55cab38efd8d4997133",
+            "id": 1,
+            "last_sync": "2021-08-10T20:45:16.865Z",
+            "sigla": "Principais;1x2;casa",
+            "valor": 1.78,
+            "valorb": 1.78
+          },
+          {
+            "_id": "6112e55cd3e1db342ed7e086",
+            "__v": 0,
+            "evento_id": "6112e55cab38efd8d4997133",
+            "id": 2,
+            "last_sync": "2021-08-10T20:45:16.865Z",
+            "sigla": "Principais;1x2;Empate",
+            "valor": 3.2,
+            "valorb": 3.2
+          },
+          {
+            "_id": "6112e55cd3e1db342ed7e085",
+            "__v": 0,
+            "evento_id": "6112e55cab38efd8d4997133",
+            "id": 3,
+            "last_sync": "2021-08-10T20:45:16.865Z",
+            "sigla": "Principais;1x2;fora",
+            "valor": 4,
+            "valorb": 4
+          }
+        ]
+      },
+      {
+        "_id": "6112e55bab38efd8d4996fc1",
+        "campeonato": {
+          "_id": "5d3b19cbd2df6d6d82a395e9",
+          "descricao": "PRIMERA DIVISION - GUATEMALA"
+        },
+        "casa": "JUVENTUD PINULTECA",
+        "fora": "CSD SACACHISPAS",
+        "data_hora": "2021-08-11T21:00:00.000Z",
+        "cotacaoContagem": 8,
+        "cotacoes_main": [
+          {
+            "_id": "6112e55ad3e1db342ed7e07c",
+            "__v": 0,
+            "evento_id": "6112e55bab38efd8d4996fc1",
+            "id": 3,
+            "last_sync": "2021-08-10T20:45:15.042Z",
+            "sigla": "Principais;1x2;fora",
+            "valor": 2.7,
+            "valorb": 2.7
+          },
+          {
+            "_id": "6112e55ad3e1db342ed7e07e",
+            "__v": 0,
+            "evento_id": "6112e55bab38efd8d4996fc1",
+            "id": 1,
+            "last_sync": "2021-08-10T20:45:15.042Z",
+            "sigla": "Principais;1x2;casa",
+            "valor": 2.45,
+            "valorb": 2.45
+          },
+          {
+            "_id": "6112e55ad3e1db342ed7e07d",
+            "__v": 0,
+            "evento_id": "6112e55bab38efd8d4996fc1",
+            "id": 2,
+            "last_sync": "2021-08-10T20:45:15.042Z",
+            "sigla": "Principais;1x2;Empate",
+            "valor": 2.85,
+            "valorb": 2.85
+          }
+        ]
+      },
+      {
+        "_id": "6112e560ab38efd8d4997395",
+        "campeonato": {
+          "_id": "5d3b19cbd2df6d6d82a395e9",
+          "descricao": "PRIMERA DIVISION - GUATEMALA"
+        },
+        "casa": "CD MICTLAN",
+        "fora": "AURORA FC",
+        "data_hora": "2021-08-11T21:00:00.000Z",
+        "cotacaoContagem": 8,
+        "cotacoes_main": [
+          {
+            "_id": "6112e560d3e1db342ed7e099",
+            "__v": 0,
+            "evento_id": "6112e560ab38efd8d4997395",
+            "id": 1,
+            "last_sync": "2021-08-10T20:45:20.499Z",
+            "sigla": "Principais;1x2;casa",
+            "valor": 2.2,
+            "valorb": 2.2
+          },
+          {
+            "_id": "6112e560d3e1db342ed7e098",
+            "__v": 0,
+            "evento_id": "6112e560ab38efd8d4997395",
+            "id": 2,
+            "last_sync": "2021-08-10T20:45:20.499Z",
+            "sigla": "Principais;1x2;Empate",
+            "valor": 2.75,
+            "valorb": 2.75
+          },
+          {
+            "_id": "6112e560d3e1db342ed7e097",
+            "__v": 0,
+            "evento_id": "6112e560ab38efd8d4997395",
+            "id": 3,
+            "last_sync": "2021-08-10T20:45:20.499Z",
+            "sigla": "Principais;1x2;fora",
+            "valor": 3.25,
+            "valorb": 3.25
+          }
+        ]
+      },
+      {
+        "_id": "6112e55eab38efd8d499726f",
+        "campeonato": {
+          "_id": "5d3b19cbd2df6d6d82a395e9",
+          "descricao": "PRIMERA DIVISION - GUATEMALA"
+        },
+        "casa": "PLATANEROS FC",
+        "fora": "CD MARQUENSE",
+        "data_hora": "2021-08-11T21:00:00.000Z",
+        "cotacaoContagem": 8,
+        "cotacoes_main": [
+          {
+            "_id": "6112e55ed3e1db342ed7e08f",
+            "__v": 0,
+            "evento_id": "6112e55eab38efd8d499726f",
+            "id": 2,
+            "last_sync": "2021-08-10T20:45:18.688Z",
+            "sigla": "Principais;1x2;Empate",
+            "valor": 2.95,
+            "valorb": 2.95
+          },
+          {
+            "_id": "6112e55ed3e1db342ed7e08e",
+            "__v": 0,
+            "evento_id": "6112e55eab38efd8d499726f",
+            "id": 3,
+            "last_sync": "2021-08-10T20:45:18.688Z",
+            "sigla": "Principais;1x2;fora",
+            "valor": 2.75,
+            "valorb": 2.75
+          },
+          {
+            "_id": "6112e55ed3e1db342ed7e090",
+            "__v": 0,
+            "evento_id": "6112e55eab38efd8d499726f",
+            "id": 1,
+            "last_sync": "2021-08-10T20:45:18.688Z",
+            "sigla": "Principais;1x2;casa",
+            "valor": 2.37,
+            "valorb": 2.37
+          }
+        ]
+      },
+      {
+        "_id": "6112e555ab38efd8d4996b79",
+        "campeonato": {
+          "_id": "5d3b19cbd2df6d6d82a395e9",
+          "descricao": "PRIMERA DIVISION - GUATEMALA"
+        },
+        "casa": "CSD COMUNICACIONES II",
+        "fora": "DEPORTIVO MIXCO",
+        "data_hora": "2021-08-11T15:00:00.000Z",
+        "cotacaoContagem": 10,
+        "cotacoes_main": [
+          {
+            "_id": "6112e555d3e1db342ed7e061",
+            "__v": 0,
+            "evento_id": "6112e555ab38efd8d4996b79",
+            "id": 1,
+            "last_sync": "2021-08-10T20:45:09.774Z",
+            "sigla": "Principais;1x2;casa",
+            "valor": 1.98,
+            "valorb": 1.98
+          },
+          {
+            "_id": "6112e555d3e1db342ed7e05f",
+            "__v": 0,
+            "evento_id": "6112e555ab38efd8d4996b79",
+            "id": 3,
+            "last_sync": "2021-08-10T20:45:09.774Z",
+            "sigla": "Principais;1x2;fora",
+            "valor": 3.4,
+            "valorb": 3.4
+          },
+          {
+            "_id": "6112e555d3e1db342ed7e060",
+            "__v": 0,
+            "evento_id": "6112e555ab38efd8d4996b79",
+            "id": 2,
+            "last_sync": "2021-08-10T20:45:09.774Z",
+            "sigla": "Principais;1x2;Empate",
+            "valor": 3.1,
+            "valorb": 3.1
+          }
+        ]
+      },
+      {
+        "_id": "6112e559ab38efd8d4996e95",
+        "campeonato": {
+          "_id": "5d3b19cbd2df6d6d82a395e9",
+          "descricao": "PRIMERA DIVISION - GUATEMALA"
+        },
+        "casa": "DEPORTIVO SAN PEDRO",
+        "fora": "QUICHE FC",
+        "data_hora": "2021-08-11T21:00:00.000Z",
+        "cotacaoContagem": 8,
+        "cotacoes_main": [
+          {
+            "_id": "6112e558d3e1db342ed7e075",
+            "__v": 0,
+            "evento_id": "6112e559ab38efd8d4996e95",
+            "id": 1,
+            "last_sync": "2021-08-10T20:45:13.114Z",
+            "sigla": "Principais;1x2;casa",
+            "valor": 2.35,
+            "valorb": 2.35
+          },
+          {
+            "_id": "6112e558d3e1db342ed7e073",
+            "__v": 0,
+            "evento_id": "6112e559ab38efd8d4996e95",
+            "id": 3,
+            "last_sync": "2021-08-10T20:45:13.114Z",
+            "sigla": "Principais;1x2;fora",
+            "valor": 2.85,
+            "valorb": 2.85
+          },
+          {
+            "_id": "6112e558d3e1db342ed7e074",
+            "__v": 0,
+            "evento_id": "6112e559ab38efd8d4996e95",
+            "id": 2,
+            "last_sync": "2021-08-10T20:45:13.114Z",
+            "sigla": "Principais;1x2;Empate",
+            "valor": 2.87,
+            "valorb": 2.87
+          }
+        ]
+      },
+      {
+        "_id": "6112e557ab38efd8d4996d01",
+        "campeonato": {
+          "_id": "5d3b19cbd2df6d6d82a395e9",
+          "descricao": "PRIMERA DIVISION - GUATEMALA"
+        },
+        "casa": "DEPORTIVO COATEPEQUE",
+        "fora": "HUEHUETECO XINABAJUL",
+        "data_hora": "2021-08-11T18:00:00.000Z",
+        "cotacaoContagem": 10,
+        "cotacoes_main": [
+          {
+            "_id": "6112e557d3e1db342ed7e06a",
+            "__v": 0,
+            "evento_id": "6112e557ab38efd8d4996d01",
+            "id": 3,
+            "last_sync": "2021-08-10T20:45:11.477Z",
+            "sigla": "Principais;1x2;fora",
+            "valor": 3.25,
+            "valorb": 3.25
+          },
+          {
+            "_id": "6112e557d3e1db342ed7e06c",
+            "__v": 0,
+            "evento_id": "6112e557ab38efd8d4996d01",
+            "id": 1,
+            "last_sync": "2021-08-10T20:45:11.477Z",
+            "sigla": "Principais;1x2;casa",
+            "valor": 2.1,
+            "valorb": 2.1
+          },
+          {
+            "_id": "6112e557d3e1db342ed7e06b",
+            "__v": 0,
+            "evento_id": "6112e557ab38efd8d4996d01",
+            "id": 2,
+            "last_sync": "2021-08-10T20:45:11.477Z",
+            "sigla": "Principais;1x2;Empate",
+            "valor": 2.95,
+            "valorb": 2.95
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": {
+      "campeonato": "61054439ba0525cb413b7d1d"
+    },
+    "campeonato": {
+      "_id": "61054439ba0525cb413b7d1d",
+      "descricao": "PRIMERA DIVISION, APERTURA - EL SALVADOR"
+    },
+    "eventos_campeonato": [
+      {
+        "_id": "6112e56dab38efd8d4997a9d",
+        "campeonato": {
+          "_id": "61054439ba0525cb413b7d1d",
+          "descricao": "PRIMERA DIVISION, APERTURA - EL SALVADOR"
+        },
+        "casa": "AD CHALATENANGO",
+        "fora": "ALIANZA FC SAN SALVADOR",
+        "data_hora": "2021-08-11T21:15:00.000Z",
+        "cotacaoContagem": 14,
+        "cotacoes_main": [
+          {
+            "_id": "6112e56dd3e1db342ed7e0f8",
+            "__v": 0,
+            "evento_id": "6112e56dab38efd8d4997a9d",
+            "id": 3,
+            "last_sync": "2021-08-10T20:45:33.380Z",
+            "sigla": "Principais;1x2;fora",
+            "valor": 2,
+            "valorb": 2
+          },
+          {
+            "_id": "6112e56dd3e1db342ed7e0f9",
+            "__v": 0,
+            "evento_id": "6112e56dab38efd8d4997a9d",
+            "id": 2,
+            "last_sync": "2021-08-10T20:45:33.380Z",
+            "sigla": "Principais;1x2;Empate",
+            "valor": 3.2,
+            "valorb": 3.2
+          },
+          {
+            "_id": "6112e56dd3e1db342ed7e0fa",
+            "__v": 0,
+            "evento_id": "6112e56dab38efd8d4997a9d",
+            "id": 1,
+            "last_sync": "2021-08-10T20:45:33.380Z",
+            "sigla": "Principais;1x2;casa",
+            "valor": 3.3,
+            "valorb": 3.3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": {
+      "campeonato": "61038290ba0525cb41ec24ab"
+    },
+    "campeonato": {
+      "_id": "61038290ba0525cb41ec24ab",
+      "descricao": "LIGA NACIONAL, APERTURA - GUATEMALA"
+    },
+    "eventos_campeonato": [
+      {
+        "_id": "6112e536ab38efd8d4995908",
+        "campeonato": {
+          "_id": "61038290ba0525cb41ec24ab",
+          "descricao": "LIGA NACIONAL, APERTURA - GUATEMALA"
+        },
+        "casa": "CSYD NUEVA CONCEPCION",
+        "fora": "CSD COBAN IMPERIAL",
+        "data_hora": "2021-08-11T21:00:00.000Z",
+        "cotacaoContagem": 14,
+        "cotacoes_main": [
+          {
+            "_id": "6112e536d3e1db342ed7dffc",
+            "__v": 0,
+            "evento_id": "6112e536ab38efd8d4995908",
+            "id": 3,
+            "last_sync": "2021-08-10T20:44:38.573Z",
+            "sigla": "Principais;1x2;fora",
+            "valor": 2.35,
+            "valorb": 2.35
+          },
+          {
+            "_id": "6112e536d3e1db342ed7dffd",
+            "__v": 0,
+            "evento_id": "6112e536ab38efd8d4995908",
+            "id": 2,
+            "last_sync": "2021-08-10T20:44:38.573Z",
+            "sigla": "Principais;1x2;Empate",
+            "valor": 2.65,
+            "valorb": 2.65
+          },
+          {
+            "_id": "6112e536d3e1db342ed7dffe",
+            "__v": 0,
+            "evento_id": "6112e536ab38efd8d4995908",
+            "id": 1,
+            "last_sync": "2021-08-10T20:44:38.573Z",
+            "sigla": "Principais;1x2;casa",
+            "valor": 3.2,
+            "valorb": 3.2
+          }
+        ]
+      },
+      {
+        "_id": "6112e539ab38efd8d4995b9c",
+        "campeonato": {
+          "_id": "61038290ba0525cb41ec24ab",
+          "descricao": "LIGA NACIONAL, APERTURA - GUATEMALA"
+        },
+        "casa": "CSD XELAJU MC",
+        "fora": "CD GUASTATOYA",
+        "data_hora": "2021-08-12T02:00:00.000Z",
+        "cotacaoContagem": 14,
+        "cotacoes_main": [
+          {
+            "_id": "6112e539d3e1db342ed7e01b",
+            "__v": 0,
+            "evento_id": "6112e539ab38efd8d4995b9c",
+            "id": 2,
+            "last_sync": "2021-08-10T20:44:41.870Z",
+            "sigla": "Principais;1x2;Empate",
+            "valor": 2.7,
+            "valorb": 2.7
+          },
+          {
+            "_id": "6112e539d3e1db342ed7e01c",
+            "__v": 0,
+            "evento_id": "6112e539ab38efd8d4995b9c",
+            "id": 1,
+            "last_sync": "2021-08-10T20:44:41.870Z",
+            "sigla": "Principais;1x2;casa",
+            "valor": 2.5,
+            "valorb": 2.5
+          },
+          {
+            "_id": "6112e539d3e1db342ed7e01a",
+            "__v": 0,
+            "evento_id": "6112e539ab38efd8d4995b9c",
+            "id": 3,
+            "last_sync": "2021-08-10T20:44:41.870Z",
+            "sigla": "Principais;1x2;fora",
+            "valor": 2.9,
+            "valorb": 2.9
+          }
+        ]
+      },
+      {
+        "_id": "6112e535ab38efd8d4995808",
+        "campeonato": {
+          "_id": "61038290ba0525cb41ec24ab",
+          "descricao": "LIGA NACIONAL, APERTURA - GUATEMALA"
+        },
+        "casa": "DEPORTIVO IZTAPA",
+        "fora": "FC SANTA LUCIA COTZUMALGUAPA",
+        "data_hora": "2021-08-11T21:00:00.000Z",
+        "cotacaoContagem": 12,
+        "cotacoes_main": [
+          {
+            "_id": "6112e534d3e1db342ed7dfed",
+            "__v": 0,
+            "evento_id": "6112e535ab38efd8d4995808",
+            "id": 3,
+            "last_sync": "2021-08-10T20:44:36.901Z",
+            "sigla": "Principais;1x2;fora",
+            "valor": 4.1,
+            "valorb": 4.1
+          },
+          {
+            "_id": "6112e534d3e1db342ed7dfee",
+            "__v": 0,
+            "evento_id": "6112e535ab38efd8d4995808",
+            "id": 2,
+            "last_sync": "2021-08-10T20:44:36.901Z",
+            "sigla": "Principais;1x2;Empate",
+            "valor": 3.4,
+            "valorb": 3.4
+          },
+          {
+            "_id": "6112e534d3e1db342ed7dfef",
+            "__v": 0,
+            "evento_id": "6112e535ab38efd8d4995808",
+            "id": 1,
+            "last_sync": "2021-08-10T20:44:36.901Z",
+            "sigla": "Principais;1x2;casa",
+            "valor": 1.73,
+            "valorb": 1.73
+          }
+        ]
+      },
+      {
+        "_id": "6112e530ab38efd8d49955ab",
+        "campeonato": {
+          "_id": "61038290ba0525cb41ec24ab",
+          "descricao": "LIGA NACIONAL, APERTURA - GUATEMALA"
+        },
+        "casa": "SOLOLA FC",
+        "fora": "ANTIGUA GFC",
+        "data_hora": "2021-08-11T17:00:00.000Z",
+        "cotacaoContagem": 14,
+        "cotacoes_main": [
+          {
+            "_id": "6112e530d3e1db342ed7dfd2",
+            "__v": 0,
+            "evento_id": "6112e530ab38efd8d49955ab",
+            "id": 2,
+            "last_sync": "2021-08-10T20:44:32.456Z",
+            "sigla": "Principais;1x2;Empate",
+            "valor": 2.8,
+            "valorb": 2.8
+          },
+          {
+            "_id": "6112e530d3e1db342ed7dfd3",
+            "__v": 0,
+            "evento_id": "6112e530ab38efd8d49955ab",
+            "id": 1,
+            "last_sync": "2021-08-10T20:44:32.456Z",
+            "sigla": "Principais;1x2;casa",
+            "valor": 2.5,
+            "valorb": 2.5
+          },
+          {
+            "_id": "6112e530d3e1db342ed7dfd1",
+            "__v": 0,
+            "evento_id": "6112e530ab38efd8d49955ab",
+            "id": 3,
+            "last_sync": "2021-08-10T20:44:32.456Z",
+            "sigla": "Principais;1x2;fora",
+            "valor": 2.8,
+            "valorb": 2.8
+          }
+        ]
+      },
+      {
+        "_id": "6112e52fab38efd8d4995429",
+        "campeonato": {
+          "_id": "61038290ba0525cb41ec24ab",
+          "descricao": "LIGA NACIONAL, APERTURA - GUATEMALA"
+        },
+        "casa": "DEPORTIVO ACHUAPA",
+        "fora": "COMUNICACIONES FC",
+        "data_hora": "2021-08-11T17:00:00.000Z",
+        "cotacaoContagem": 12,
+        "cotacoes_main": [
+          {
+            "_id": "6112e52ed3e1db342ed7dfc4",
+            "__v": 0,
+            "evento_id": "6112e52fab38efd8d4995429",
+            "id": 1,
+            "last_sync": "2021-08-10T20:44:30.974Z",
+            "sigla": "Principais;1x2;casa",
+            "valor": 4.4,
+            "valorb": 4.4
+          },
+          {
+            "_id": "6112e52ed3e1db342ed7dfc3",
+            "__v": 0,
+            "evento_id": "6112e52fab38efd8d4995429",
+            "id": 2,
+            "last_sync": "2021-08-10T20:44:30.974Z",
+            "sigla": "Principais;1x2;Empate",
+            "valor": 3.3,
+            "valorb": 3.3
+          },
+          {
+            "_id": "6112e52ed3e1db342ed7dfc2",
+            "__v": 0,
+            "evento_id": "6112e52fab38efd8d4995429",
+            "id": 3,
+            "last_sync": "2021-08-10T20:44:30.974Z",
+            "sigla": "Principais;1x2;fora",
+            "valor": 1.72,
+            "valorb": 1.72
+          }
+        ]
+      },
+      {
+        "_id": "6112e533ab38efd8d49956fb",
+        "campeonato": {
+          "_id": "61038290ba0525cb41ec24ab",
+          "descricao": "LIGA NACIONAL, APERTURA - GUATEMALA"
+        },
+        "casa": "CSD MUNICIPAL",
+        "fora": "CD MALACATECO",
+        "data_hora": "2021-08-11T18:30:00.000Z",
+        "cotacaoContagem": 14,
+        "cotacoes_main": [
+          {
+            "_id": "6112e532d3e1db342ed7dfe0",
+            "__v": 0,
+            "evento_id": "6112e533ab38efd8d49956fb",
+            "id": 3,
+            "last_sync": "2021-08-10T20:44:34.876Z",
+            "sigla": "Principais;1x2;fora",
+            "valor": 7,
+            "valorb": 7
+          },
+          {
+            "_id": "6112e532d3e1db342ed7dfe2",
+            "__v": 0,
+            "evento_id": "6112e533ab38efd8d49956fb",
+            "id": 1,
+            "last_sync": "2021-08-10T20:44:34.876Z",
+            "sigla": "Principais;1x2;casa",
+            "valor": 1.41,
+            "valorb": 1.41
+          },
+          {
+            "_id": "6112e532d3e1db342ed7dfe1",
+            "__v": 0,
+            "evento_id": "6112e533ab38efd8d49956fb",
+            "id": 2,
+            "last_sync": "2021-08-10T20:44:34.876Z",
+            "sigla": "Principais;1x2;Empate",
+            "valor": 4,
+            "valorb": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": {
+      "campeonato": "5d0a4aa7e39d36d564d59611"
+    },
+    "campeonato": {
+      "_id": "5d0a4aa7e39d36d564d59611",
+      "descricao": "VIRSLIGA - LETÔNIA"
+    },
+    "eventos_campeonato": [
+      {
+        "_id": "6112e588ab38efd8d4998c16",
+        "campeonato": {
+          "_id": "5d0a4aa7e39d36d564d59611",
+          "descricao": "VIRSLIGA - LETÔNIA"
+        },
+        "casa": "FK LIEPAJA",
+        "fora": "FK SPARTAKS JURMALA",
+        "data_hora": "2021-08-11T15:00:00.000Z",
+        "cotacaoContagem": 92,
+        "cotacoes_main": [
+          {
+            "_id": "6112e587d3e1db342ed7e1e2",
+            "__v": 0,
+            "evento_id": "6112e588ab38efd8d4998c16",
+            "id": 3,
+            "last_sync": "2021-08-10T20:45:59.735Z",
+            "sigla": "Principais;1x2;fora",
+            "valor": 4.4,
+            "valorb": 4.4
+          },
+          {
+            "_id": "6112e587d3e1db342ed7e1e4",
+            "__v": 0,
+            "evento_id": "6112e588ab38efd8d4998c16",
+            "id": 1,
+            "last_sync": "2021-08-10T20:45:59.735Z",
+            "sigla": "Principais;1x2;casa",
+            "valor": 1.63,
+            "valorb": 1.63
+          },
+          {
+            "_id": "6112e587d3e1db342ed7e1e3",
+            "__v": 0,
+            "evento_id": "6112e588ab38efd8d4998c16",
+            "id": 2,
+            "last_sync": "2021-08-10T20:45:59.735Z",
+            "sigla": "Principais;1x2;Empate",
+            "valor": 3.7,
+            "valorb": 3.7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": {
+      "campeonato": "5cf721d8509c17dcd0f4ec04"
+    },
+    "campeonato": {
+      "_id": "5cf721d8509c17dcd0f4ec04",
+      "descricao": "SUPER LEAGUE - QUÊNIA"
+    },
+    "eventos_campeonato": [
+      {
+        "_id": "6112e57bab38efd8d49983b7",
+        "campeonato": {
+          "_id": "5cf721d8509c17dcd0f4ec04",
+          "descricao": "SUPER LEAGUE - QUÊNIA"
+        },
+        "casa": "SILIBWET",
+        "fora": "MURANGA SEAL",
+        "data_hora": "2021-08-11T12:00:00.000Z",
+        "cotacaoContagem": 14,
+        "cotacoes_main": [
+          {
+            "_id": "6112e57bd3e1db342ed7e17d",
+            "__v": 0,
+            "evento_id": "6112e57bab38efd8d49983b7",
+            "id": 1,
+            "last_sync": "2021-08-10T20:45:47.160Z",
+            "sigla": "Principais;1x2;casa",
+            "valor": 2.25,
+            "valorb": 2.25
+          },
+          {
+            "_id": "6112e57bd3e1db342ed7e17c",
+            "__v": 0,
+            "evento_id": "6112e57bab38efd8d49983b7",
+            "id": 2,
+            "last_sync": "2021-08-10T20:45:47.160Z",
+            "sigla": "Principais;1x2;Empate",
+            "valor": 3.3,
+            "valorb": 3.3
+          },
+          {
+            "_id": "6112e57bd3e1db342ed7e17b",
+            "__v": 0,
+            "evento_id": "6112e57bab38efd8d49983b7",
+            "id": 3,
+            "last_sync": "2021-08-10T20:45:47.160Z",
+            "sigla": "Principais;1x2;fora",
+            "valor": 2.75,
+            "valorb": 2.75
+          }
+        ]
+      }
+    ]
+  }
+]

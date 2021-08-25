@@ -1,0 +1,5 @@
+type Usuario {
+  _id: ID
+  nome: String
+  cpf:String
+}

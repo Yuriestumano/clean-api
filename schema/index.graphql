@@ -1,0 +1,7 @@
+#import Mutation from './mutation.graphql'
+#import * from './usuario.graphql'
+
+
+type Query {
+  login:Boolean
+}
