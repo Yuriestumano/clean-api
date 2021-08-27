@@ -1,3 +1,5 @@
 type Mutation {
-  usuario(nome: String, email: String, senha: String, telefone: String): Users
+  user(dados:UserInput):Boolean
+  test:Boolean
+
 }

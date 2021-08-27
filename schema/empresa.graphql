@@ -28,12 +28,12 @@ type Office {
     _id: String,
     name: String,
     permissions: [Int],
-    employees: [Users],
+    employees: [User],
 }
 
 input OfficeInput {
     _id: String,
     name: String,
     permissions: [Int],
-    employees: [UsersInput],
+    employees: [User],
 }
