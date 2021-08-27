@@ -32,7 +32,6 @@ type UserPayload {
 
 input UserInput {
   name: String
-  birth: String
   email: String
   password: String
   phone: String
